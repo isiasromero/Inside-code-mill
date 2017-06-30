@@ -1,0 +1,22 @@
+{
+  "name": "INSIDE-CODE",
+  "authors": [
+    "isiasromerO"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "INSIDECODE",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "bower_components"
+
+  ],
+  "dependencies": {
+    "require-css": "^0.1.8",
+    "jquery": "^3.1.1",
+    "sweetalert": "^1.1.3",
+    "dropzone": "^4.3.0"
+  }
+}
